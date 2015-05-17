@@ -1,0 +1,74 @@
+#logo {
+  width: 300px;
+  margin-left: 525px;
+  margin-top: 200px;
+}
+
+#input_box {
+  width: 500px;
+}
+
+#inputs {
+  position: relative;
+  margin-left: 425px;
+}
+
+#buttons {
+  margin-top: 15px;
+  margin-left: 150px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline;
+  padding: 3px;
+}
+
+a {
+  color: #444444;
+  text-decoration: none;
+  font-family:arial-black;
+  font-size:15px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+#navBar{
+  float:right;
+}
+
+#footer{
+  position:absolute;
+  bottom:0;
+  width:100%;
+  background-color:#eeeeee;
+  height:45px;
+}
+
+#left{
+  margin-top:15px;
+}
+
+.left2{
+  margin-left:10px;
+}
+
+#right{
+  margin-top:-20px;
+  float:right;
+}
+
+.right2{
+  margin-right:10px;
+}
